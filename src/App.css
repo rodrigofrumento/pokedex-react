@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.card-header {
+  background-color: #3d3d3d;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: #fff;
+  font-size: 20px;
+}
